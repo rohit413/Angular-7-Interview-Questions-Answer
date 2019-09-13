@@ -2,17 +2,19 @@
 Angular 7 Interview Questions Answer 
 
 
-Question 1. What Is Angular?
+# Question 1. What Is Angular?
 
-Answer :
+#Answer :
 
 Angular is a most popular web development framework for developing mobile apps as well as desktop applications.
 Angular framework is also utilized in the cross platform mobile development called IONIC and so it is not limited to web apps only.
 Angular is an open source framework written and maintained by angular team at Google and the Father of Angular is Misko Hevery.
 Angular is written in TypeScript and so it comes with all the capabilities that typescript offers.
-Question 2. What Is Architecture Overview Of Angular?
 
-Answer :
+
+# Question 2. What Is Architecture Overview Of Angular?
+
+# Answer :
 
 Angular Architecture Overview :
 
@@ -26,13 +28,13 @@ The bootstrapping process creates the components listed in the bootstrap array a
 
  you can identify the seven main building blocks of an Angular Application.
 
-Component
-Templates
-Metadata
-Data Binding
-Directives
-Services
-Dependency Injection
+# Component
+# Templates
+# Metadata
+# Data Binding
+# Directives
+# Services
+# Dependency Injection
  The basic building blocks of an Angular application are NgModules, which provide a compilation context for components.
 
  Angular app is defined by a set of NgModules and it always has at least a root module that enables bootstrapping, and many more feature modules.
